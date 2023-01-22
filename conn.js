@@ -1,3 +1,3 @@
-const connection = 'mongodb+srv://InstaClone:InstaClone@cluster0.iph4plx.mongodb.net/?retryWrites=true&w=majority';
+const connection = 'mongodb+srv://Piyush:Piyush@cluster0.w0mabnr.mongodb.net/?retryWrites=true&w=majority';
 
 module.exports= connection;
