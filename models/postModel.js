@@ -12,6 +12,8 @@ const PostSchema = new Schema({
     date: { type: String },
     likes: Number
 
+}, {
+    timestamps:true
 })
 
 module.exports = { PostSchema }
